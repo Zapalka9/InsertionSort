@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "sort.h"
-
+// ich mag Pedro
 void main()
 {
 	double daten[LEN] = { 16, 7, 9, 11, 2, 38, 22, 45, 1, 2.5, 7, 9 };
